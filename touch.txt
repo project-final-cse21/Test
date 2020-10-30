@@ -1,0 +1,3 @@
+total 0
+-rw-rw-r-- 1 sanjay sanjay 0 Oct 30 23:07 test.txt
+-rw-rw-r-- 1 sanjay sanjay 0 Oct 30 23:07 touch.txt
